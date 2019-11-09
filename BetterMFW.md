@@ -18,11 +18,11 @@
 
 <ul>
 
-<li>Shit's still lightweight and loads fast</li>
-<li>Still fits on all your shitty screens</li>
-<li>Still looks the same in all your shitty browsers</li>
-<li>The motherfucker's still accessible to every asshole that visits your site</li>
-<li>Shit's still legible and gets your fucking point across</li>
+<li>Shit's <em>still</em> lightweight and loads fast</li>
+<li><em>Still</em> fits on all your shitty screens</li>
+<li><em>Still</em> looks the same in all your shitty browsers</li>
+<li>The motherfucker's <em>still</em> accessible to every asshole that visits your site</li>
+<li>Shit's <em>still</em> legible and gets your fucking point across</li>
 
 </ul>
 
