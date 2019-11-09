@@ -1,3 +1,3 @@
 # BetterMotherFuckingWebsite
 
-[Lien vers le site](http://txti.es/w92bf)
+[Lien vers le site](https://lyneom.github.io/BetterMotherFuckingWebsite/)
